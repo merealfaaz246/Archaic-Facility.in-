@@ -1,0 +1,155 @@
+@media only screen and (max-width: 767px)
+{
+    .breadcrumbb
+    {
+        padding: 110px 0 0 70px !important;
+        height: 275px;
+    }
+    .breadcrumbb h1
+    {
+        font-size: 40px;
+    }
+    .contact_info_sec
+    {
+        position: inherit;
+        border-radius:0;
+        width: 100%;
+        right: 0px;
+        padding: 30px;
+    }
+    .contact_field {
+        padding: 35px 15px 50px 15px;
+    }
+    .contact_inner
+    {
+        border-radius:0;
+    }
+    .aboutdata h1
+    {
+        font-size: 27px;
+    }
+    .aboutdata p
+    {
+        padding: 30px 0px 0px 0px;
+        text-align: justify;
+    }
+    .aboutbanner
+    {
+        height: 100%;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .serv h1
+    {
+        font-size: 30px;
+        font-weight: bolder;
+        margin-top: 15px;
+        line-height: 40px;
+    }
+    .serv p
+    {
+        padding: 30px 0px 0px 0px;
+        text-align: justify;
+    }
+    .certificate .mobile-cer
+    {
+        margin-bottom: 30px;
+    }
+    .section.portfolio .filters ul li
+    {
+        padding: 10px 20px !important;
+    }
+    .section
+    {
+        padding: 0px !important;
+    }
+    .geeks2
+    {
+        width: 100% !important;
+        height: 100% !important;
+    }
+    .breaker-data h1
+    {
+        font-size: 40px;
+    }
+    .breaker-data p
+    {
+        padding: 14px 0px 0px 0px;
+        text-align: justify;
+    }
+    .odd
+    {
+        height: 915px;
+    }
+    .banner
+    {
+        height: 560px;
+        padding-top: 190px;
+    }
+    .banner-top h1
+    {
+        margin-left: 30px;
+        font-size: 50px;
+    }
+    .banner .banner-bottom
+    {
+        /*display:none;*/
+        width: 100%;
+    }
+    .bottom-data h5
+    {
+        font-size: 10px;
+        margin: 0;
+    }
+    .banner .banner-bottom .bottom-data
+    {
+        padding:17px 5px;
+    }
+    .bottom-data2
+    {
+        padding:10px 5px;
+    }
+    .bottom-data2 p
+    {
+        margin: 0;
+        font-size: 10px;
+    }
+    .bottom-data3 p
+    {
+        margin-top: 55px;
+    }
+    .footer-text {
+        text-align: start;
+    }
+    .aboutus p
+    {
+        padding: 14px 0px 0px 0px;
+        text-align: justify;
+    }
+    .coll-ind
+    {
+        margin:0;
+    }
+    .abt-bannier
+    {
+        padding: 10px;
+    }
+    .about-sec
+    {
+        margin: 0px 0px 30px 0px;
+    }
+    .progressdiv_parent
+    {
+        height:auto;
+    }
+    .abt-bannier
+    {
+        /*background:none;*/
+        margin: 0;
+        height: 250px;
+    }
+    /*.abt-bannier img */
+    /*{*/
+    /*    display: block;*/
+    /*}*/
+}
